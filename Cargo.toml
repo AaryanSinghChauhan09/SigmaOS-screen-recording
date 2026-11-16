@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-screen-recording"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS screen-recording component - desktop"
+
+[lib]
+name = "screen_recording"
+path = "src/lib.rs"
