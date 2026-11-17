@@ -3,7 +3,7 @@ name = "SigmaOS-screen-recording"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "screen-recording component"
+description = "screen recording"
 upstream = []
 
 [contract]
